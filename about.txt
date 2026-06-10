@@ -1,1 +1,2 @@
 Hello! I am a Software Engineering student passionate about full-stack development.
+I enjoy working with modern frameworks and solving real-world problems.
