@@ -1,2 +1,3 @@
 Hello! I am a Software Engineering student passionate about full-stack development.
 I enjoy working with modern frameworks and solving real-world problems.
+Actively pursuing software engineering and quality assurance (SQA) internships.
